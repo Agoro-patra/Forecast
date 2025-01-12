@@ -1,5 +1,5 @@
 body {
-  background-color: slategray;
+  background-color: rgb(0, 174, 255);
   font-family: "Roboto", sans-serif;
 }
 .weather-app {
@@ -119,5 +119,5 @@ footer {
   text-align: center;
   padding-top: 15px;
 
-  color: blue;
+  color: black;
 }
